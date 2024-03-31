@@ -8,7 +8,7 @@ sum_result = int(string1) + int(string2)
 x=str(sum_result)
 lst = [int(char) for char in x]
 lst.reverse()
-print(lst)
 print(sum_result)
+print(lst)
 
     
